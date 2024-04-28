@@ -1,4 +1,4 @@
-import Wiki_Icon from "../../assets/Icons/Wiki_Arrow.png";
+import Wiki_Icon from "../../../public/assets/Icons/Wiki_Arrow.png";
 import Planet_facts from "./Planet_facts";
 import Planet_interactive_info_block from "./Planet_interactive_info_block";
 const Planet_info = ({

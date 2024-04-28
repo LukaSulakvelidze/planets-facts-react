@@ -7,7 +7,7 @@
 
 body {
   color: white;
-  background-image: url(./assets/Path/Circles.png);
+  background-image: url(../public/assets/Path/Circles.png);
   background-size: cover;
   background-color: #070724;
 }
@@ -203,7 +203,7 @@ a {
 
 @media (width >= 768px) {
   body {
-    background-image: url(./assets/Path/Tab_Circles.png);
+    background-image: url(../public/assets/Path/Tab_Circles.png);
   }
 
   .head_main_part {
@@ -312,7 +312,7 @@ a {
 
 @media (width >= 1300px) {
   body {
-    background-image: url(./assets/Path/Desktop_Circles.png);
+    background-image: url(../public/assets/Path/Desktop_Circles.png);
   }
 
   header {
